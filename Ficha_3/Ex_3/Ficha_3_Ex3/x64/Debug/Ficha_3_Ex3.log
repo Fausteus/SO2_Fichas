@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Escolinha 22_23\SO2\Ficha_3\Ex_3\Ficha_3_Ex3\main.c(12,10): warning C4101: 'varAdd': variável local não referenciada
+D:\Escolinha 22_23\SO2\Ficha_3\Ex_3\Ficha_3_Ex3\main.c(14,18): warning C4101: 'procAdd': variável local não referenciada
+  Ficha_3_Ex3.vcxproj -> D:\Escolinha 22_23\SO2\Ficha_3\Ex_3\Ficha_3_Ex3\x64\Debug\Ficha_3_Ex3.exe
