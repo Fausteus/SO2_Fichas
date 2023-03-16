@@ -1,0 +1,5 @@
+﻿  main.c
+D:\Escolinha 22_23\SO2\Ficha_2\Ex_2\Ficha_2_Ex_2\main.c(49,60): warning C4133: 'função': tipos incompatíveis - de 'TCHAR [200]' para 'const BYTE *'
+D:\Escolinha 22_23\SO2\Ficha_2\Ex_2\Ficha_2_Ex_2\main.c(49,81): warning C4267: 'função': conversão de 'size_t' para 'DWORD', possível perda de dados
+D:\Escolinha 22_23\SO2\Ficha_2\Ex_2\Ficha_2_Ex_2\main.c(15,11): warning C4101: 'nome': variável local não referenciada
+  Ficha_2_Ex_2.vcxproj -> D:\Escolinha 22_23\SO2\Ficha_2\Ex_2\Ficha_2_Ex_2\x64\Debug\Ficha_2_Ex_2.exe
